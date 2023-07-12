@@ -1,0 +1,3 @@
+[submodule "spleeters"]
+	path = spleeters
+	url = https://github.com/Deezer/spleeter
